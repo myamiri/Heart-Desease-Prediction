@@ -1,8 +1,5 @@
 # Heart-Desease-Prediction
 
-# Summary
-
-
 
 
 # Problem
@@ -14,8 +11,9 @@ Given clinical parameters about a patient, can we predict whether or not they ha
 
 
 
-
 # Solution
+
+I used different classifiers to find which one is the best for predicting patients with heart disease.
 
 
 
