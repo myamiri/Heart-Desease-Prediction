@@ -41,6 +41,6 @@ classification. My aim was, comparing the result of these classification and fin
 
 # Result
 
-The best resuts are for KNN and RandomForest models
+The best results are for KNN and RandomForest models
 
 ![ana22](https://user-images.githubusercontent.com/33470542/81598096-c6531d00-9394-11ea-920c-31d6df2fe171.png)
