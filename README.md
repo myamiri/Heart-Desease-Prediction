@@ -32,8 +32,7 @@ this date. The "goal" field refers to the presence of heart disease in the patie
 
 # Modeling
 
-I used LogisticRegression, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest 
-classification. My aim was, comparing the result of these classification and finding the best classifier.
+I used LogisticRegression, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest classification. My aim was, comparing the result of these classifications and finding the best classifier.
 
 ![ana21](https://user-images.githubusercontent.com/33470542/81598046-b3404d00-9394-11ea-9240-353b608244c7.png)
 
@@ -41,6 +40,6 @@ classification. My aim was, comparing the result of these classification and fin
 
 # Result
 
-The best results are for KNN and RandomForest models
+The best results are for KNN and RandomForest models.
 
 ![ana22](https://user-images.githubusercontent.com/33470542/81598096-c6531d00-9394-11ea-920c-31d6df2fe171.png)
